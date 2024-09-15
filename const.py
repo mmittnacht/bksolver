@@ -1,0 +1,5 @@
+CODE = 18440
+HOUR = "1"
+SEC = "8"
+# DE-1, DU-2
+DAYTIME = "2"
